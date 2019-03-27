@@ -7,6 +7,6 @@ Execute:
 
  	2)  "cmake ." in the directory graphics-boilerplate .
  	
- 	3)	"make all" in the directory graphics-boilerplate .
+ 	3)	 "make all" in the directory graphics-boilerplate .
 
-  	4)	Run "./graphics_asgn1" in the same directory . 
+  4)	  Run "./graphics_asgn1" in the same directory . 
